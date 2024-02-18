@@ -1,0 +1,4033 @@
+{
+  "professional": [
+    {
+      "id": "1317",
+      "userId": 1317,
+      "name": "Erica Ferreira Dos Santos",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/48bd11cbd7",
+      "price": "R$ 80,00",
+      "duration": "50min.",
+      "registerNumber": "06/76018",
+      "presentationLetter": "Olá! Bem-vindo(a). Você está vivenciando questões relacionadas a um trauma,  sofrimento,   depressão,  dificuldade de relacionamento,  vício,  ansiedade ou grandes mudanças de vida?  Sou a Psicóloga Érica  e terei o prazer de poder acompanhar você no caminho da superação dos desafios da vida, oferecendo-lhe o cuidado e o profissionalismo merecido. Vou me apresentar brevemente para que você se sinta mais seguro. Me formei em 2003 em Psicologia com foco em Terapia Breve e Atendimento de adolescente e adulto. Minha abordagem de atuação é a mais atual e científica nessa área, a Terapia Cognitiva-Comportamental, sendo que utilizo as técnicas das 3 gerações nessa área.  Tenho formação em hipnose e Mindfulness.  Também faço coaching em Processo de Emagrecimento e na área Profissional. \nEm minha trajetória, desenvolvi alta habilidade em formar uma conexão com os pacientes, fazendo se sentir confortável e acolhido nas sessões, para que o processo seja focado em desenvolver habilidades para que você possa lidar com suas questões emocionais, seja qual for. \nA saúde mental está em evidência, cada vez mais as pessoas estão tomando consciência de que mente e corpo precisam estar um harmonia para uma vida saudável. Meu principal objetivo é auxiliar os pacientes a sair do sofrimento e buscar o caminho que lhe proporcione qualidade de vida. ",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 70,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "NS4HtBysVRZooKqPHVWU2mRdLKa2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -23.2373382,
+        "lng": -45.8249612
+      },
+      "address": "Avenida Laudelino Gonçalves de Miranda, 271 - Centro médico - São José dos Campos/SP",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 4,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 16
+      },
+      "generalScore": 93,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Feb 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Feb 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Feb 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Apr  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Apr 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "8132",
+      "userId": 8132,
+      "name": "Heleodoro Moreno Dos Santos",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/95f3af31d9",
+      "price": "R$ 120,00",
+      "duration": "50min.",
+      "registerNumber": "18/04331",
+      "presentationLetter": "Olá! Se você está passando por problema de ordem emocional que atrapalha sua vida, sua relação com o mudo e com você mesmo, sem um motivo aparente, que se sente muito cansado, entre outros sintomas  tais como: transtornos de ansiedades, medo, preocupação, alteração do humor, fobias diversas, traços histéricos, depressão, bipolaridade, claustrofobia (medo de lugares fechados ou confinados), transtornos pós traumáticos, agorafobia, pânicos, incertezas (desnorteamentos) em decorrência da COVID 19 e ideação suicida. Enfim, um sentimento inexplicado, que o desmotiva de continuar lutando. \r\n\r\nDiante desse quadro angustiante e perturbador, convido você a vir comigo na busca de identificar os agentes motivadores do desanimo emocional e psíquico. Meu nome é Heleodoro Moreno, sou Psicólogo Clinico/Psicanalista, formado pela FAUC AUM (UNIFAC) - Cuiabá/MT - Pós Graduação em psicanalise (Saúde e Bem Estar Social) - ESPECIALIZAÇÃO – Psicanálise Clinica.  \r\n\r\nTenho por objetivo cuidar da saúde mental das pessoas que cada vez mais são acometidas por problemas subjetivos de ordem neuróticas, emocionais e psicológicas, levando os indivíduos ao descontrole emocional e psíquico, com forte predominância ao agravamento psicológico e psicossomático, impulsionado por agentes motivadores de natureza desconhecidas, latentes no inconsciente do sujeito. \r\n\r\nCom base nessa  perspectiva do adoecimento mental do mundo contemporâneo, coloco-me a disposição a se conectar comigo mediante dispositivos da Tecnologia da Informação e Comunicação, de maneira humanizada, fundamentado na abordagem da Psicanálise Clinica, sem pré-julgamento, com ética, respeito e sigilo absoluto, a você que se interessa a fazer uma viagem em seu inconsciente por meio de associação livre (da fala), a se encontrar consigo mesmo na busca de equacionar os sofrimentos nos contextos perturbadores citados inicialmente, venha comigo, e vamos fazer essa viagem juntos.\r\n\r\nE assim, frente a esse quadro inovador da Tecnologia da Informação e Comunicação (TIC’s). Você de lá, e eu de cá. \r\n\r\nTudo isso pode ser realizado no conforto de sua casa, onde você estiver. A Psicologia, representada pelos profissionais psicólogas/psicólogos, com base na nova perspectiva no atendimento psicoterapêutico, se vê na necessidade da inserção nesse meio de comunicação, afim de alavancar um atendimento globalizado, humanizado, e sem fronteiras, através da intermete, amparado legalmente pela nova “resolução CFP  11/2018, e-psi atendimento online”.  Segundo Oliveira (2009), diz: “O DIVÃ É A LINGUAGEM DO ATENDIMENTO PSICANALÍTICO ONLINE NO CIBERESPAÇO”. Então! Vamos caminhar juntos na busca de se encontrar consigo mesmo.",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 90,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "ZYJy1cqQPNSTaNs8rsFPsZlkRpJ3",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -15.5982074,
+        "lng": -56.1118771
+      },
+      "address": "Avenida Oito de Abril, 2616 - Sobrado - Cuiabá/MT",
+      "acceptPlan": true,
+      "faithfulPatients": false,
+      "serviceScore": {
+        "noteDiagnoseProblem": 0,
+        "notePrescribeTreatment": 0,
+        "noteAttentiveExpert": 0,
+        "noteGeneralService": 0,
+        "qtd": 0
+      },
+      "generalScore": 13,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Apr  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Apr 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "1777",
+      "userId": 1777,
+      "name": "Thiana Kener Cheiran",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/a129d9d656",
+      "price": "R$ 100,00",
+      "duration": "50min.",
+      "registerNumber": null,
+      "presentationLetter": "Sou Thiana psicanalista , estou aqui para ajudar em suas questões emocionais, estresse , afetivas, profissionais, oferecendo uma escuta ética sigilosa, através da fala dos seus medos, angústias e preocupações , que com a ajuda do analista refletira, num melhor entendimento das questões e preocupações diante do autoconhecimento. Psicanálise é a cura pela fala .\n\nOrientação Emergencial\nOrientação Indicado para pessoas com necessidade de tomar decisões difíceis e lidar com situações específicas e pontuais. Muitas vezes uma única sessão é o suficiente. ***Atendimento Emergencial Específico para situações de intenso sofrimento, que demanda intervenção imediata.\nPsicanálise Clinica\na Análise, o paciente fala sobre si mesmo, e a partir desta fala, entra em contato com conteúdos inconscientes que fogem à sua compreensão. A finalidade da Análise é a obtenção de \"insight\" (habilidade de discernir a verdadeira natureza de uma situação).\n\nA terapia irá tratar dos teus sofrimentos psíquicos e físicos, no percurso buscaremos os alívios para esses sofrimentos sejam eles uma ansiedade, uma depressão, pânico, as dores de um luto, de uma separação, superação de problemas e traumas. Ou ainda dos incômodos que te apertam o peito, que te reviram o estomago, que te dão insônia e você nem sabe do que se trata.\n\nVamos cuidar de tudo que anda te fazendo mal, mas que, por algum motivo, você anda evitando tocar nesses assuntos...\n\nVamos tratar a causa dos teus sintomas, de tudo que nesse momento te aflige.",
+      "profession": "Psicanalista",
+      "firstSessionPrice": null,
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "XSZ7GKxpJeSdJvxiZjKqKM7f2ZO2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -25.5357054,
+        "lng": -54.5759162
+      },
+      "address": "Rua Mato Grosso Vila Maracanã, 735 - 32 - Foz do Iguaçu/PR",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 5,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 5
+      },
+      "generalScore": 93,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "1452",
+      "userId": 1452,
+      "name": "Flavia De Almeida Egreja",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/ce39d7a982",
+      "price": "R$ 90,00",
+      "duration": "50min.",
+      "registerNumber": "",
+      "presentationLetter": "Olá, sou a Flavia, uma profissional dedicada à mente e ao bem-estar integral. Com uma graduação em Psicologia, um mestrado em Psicanálise Clínica e uma especalidade em Medicina Integrativa, minha abordagem terapêutica é enriquecida pela compreensão profunda da psiquê humana. Eu não cuido de doenças. Eu cuido de pessoas! Minha missão? Estou aqui para ajudar você a descobrir por que os seus sonhos são tão estranhos (spoiler: Freud ficaria orgulhoso) e por que sua mente faz algumas escolhas duvidosas. Além de claro... Auxiliar você a criar estratégias para superar crises de ansiedade, insônia, melancolia e tristeza. Com um toque de Medicina Integrativa, vamos cuidar do corpo e da mente, até porque - aposto que seu corpo está dando alguns sinais dessa inflamação que está em sua psiquê (cansaço? insôna? dores? irritabilidade?) Se você está pronto para chorar, rir, refletir e avançar, eu sou a psicanalista para você chamar de \"minha\". Com uma abordagem orientada para o paciente e não para a doença, busco criar um espaço de confiança e empatia, onde juntos possamos explorar os desafios, compreender as raízes dos problemas e, com a ajuda da medicina integrativa, desenvolver estratégias abrangentes para a cura que vão além de uma sessão de análise para incluir a recomendação de psico-medicamentos menos agressivos, ideiais para aqueles que estão na fase do desmame de medicamentos psiquiátricos ou aqueles que querem uma \"ajudinha\", mas nada muito tóxico. Minha meta é ajudá-lo a alcançar um equilíbrio duradouro, não apenas lidando com sintomas, mas também promovendo um bem-estar real e duradouro, num curto espaço de tempo. Prepare-se para desvendar sua mente e seus comportamentos estranhos com um toque de sarcasmo terapêutico - vamos rir e chorar até descobrirmos por que o seu subconsciente é tão criativo! Se você procura uma abordagem única que combina Psicologia, Psicanálise com um toque extra da Medicina Integrativa, estou aqui para ajudá-lo em sua jornada de autoconhecimento e crescimento. Sim! Faço pacotes mensais e quinzenais. Outras dúvidas? Me passa uma mensagem! Até a nossa sessão!",
+      "profession": "Psicanalista",
+      "firstSessionPrice": "R$ 75,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "2vQJAPbg2PQjhkDV3NwfK94Hpk72",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -23.0025642,
+        "lng": -43.4250771
+      },
+      "address": "Rua César Lattes,  - Rio de Janeiro/RJ",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 5,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 1
+      },
+      "generalScore": 95,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "3347",
+      "userId": 3347,
+      "name": "Beatriz Da Silva Rodrigues",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/43d887b459",
+      "price": "R$ 85,00",
+      "duration": "50min.",
+      "registerNumber": "06/177121",
+      "presentationLetter": "Olá! Seja Bem-vindo (a) ao meu perfil, sou psicóloga clínica. Sinta-se a vontade para entrar em contato, será um prazer te atender.\n\nA clínica me dá a oportunidade de conhecer histórias e auxiliar pessoas no processo de autoconhecimento. A terapia é um local onde você se encontrar consigo mesmo e começa a ter noção das suas potencialidades, vulnerabilidades, medos, limites e forças. É um local de acolhimento sem julgamento e/ou críticas. Fazer psicoterapia também é um ato de amor-próprio, cuidar de você para estar bem consigo mesmo e com próximo. Não há nada melhor do que investir em nós mesmo. \n\nPossuo experiência com temas como: depressão, ansiedade, luto, relacionamentos amorosos, tristeza, abuso infantil, violência doméstica, autoestima baixa, homofobia, transfobia, angústia, dificuldades nas relações familiares, entre outros. Trabalho com a abordagem psicanalítica, oferecendo acolhimento e escuta especificada.\n\nComece a cuidar de você e marque uma consulta!",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 50,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "GCkwrnMg7qdvS1T0uz2eaiwKY2m2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -23.6878718,
+        "lng": -46.7659873
+      },
+      "address": "Rua Afonso Rui, 64 - 2 viela casa 24 - São Paulo/SP",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 0,
+        "notePrescribeTreatment": 0,
+        "noteAttentiveExpert": 0,
+        "noteGeneralService": 0,
+        "qtd": 0
+      },
+      "generalScore": 13,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "1000",
+      "userId": 1000,
+      "name": "Dayse Sthefanny Borges Da Silva",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/bfc9f89856",
+      "price": "R$ 100,00",
+      "duration": "50min.",
+      "registerNumber": "03/25699",
+      "presentationLetter": "Olá, que bom ter você por aqui!\nEu me chamo Dayse e sou Psicóloga Clínica.\nRealizo atendimentos on-line para o público de adolescentes e adultos que me procuram por questões com ansiedade, depressão e demais questões emocionais, assim como autoestima, relacionamentos afetivos e amorosos. A psicoterapia comigo acontece por meio da Terapia Cognitivo-Comportamental (TCC), uma terapia orientada para o presente e para seus objetivos atuais. Com ela vou te apresentar formas de lidar melhor com suas emoções, comportamentos e pensamentos, que vão te trazer mais consciência e te ajudar a ter mais bem-estar.\nAssim, se tem interesse em iniciar o processo de psicoterapia, ficarei feliz em te acompanhar nesse processo!\nMas se ainda resta dúvidas, fico a disposição para esclarecer, entre em contato comigo pelo chat!  ",
+      "profession": "Psicólogo Cognitivo Comportamental",
+      "firstSessionPrice": "R$ 50,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "Qa09cDLptjUdPejQyNFZrioeM4A3",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -10.8233884,
+        "lng": -42.7249305
+      },
+      "address": ", 410 - Xique-Xique/BA",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 5,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 11
+      },
+      "generalScore": 95,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "1273",
+      "userId": 1273,
+      "name": "Bruna Rodrigues Bessa",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/e3752cf230",
+      "price": "R$ 100,00",
+      "duration": "50min.",
+      "registerNumber": "03/25960",
+      "presentationLetter": "Olá, tudo bem com você? Vem me conhecer um pouquinho por aqui :)\nMe chamo Bruna, sou Psicóloga Clínica e atendo aos meus pacientes seguindo a linha teórica da Terapia Cognitivo-Comportamental (TCC) que é uma abordagem da Psicologia baseada em evidências e orientada no presente, na qual acredita que o modo como nossos pensamentos se manifestam influenciam no comportamento, podendo ter reações indesejadas. Atualmente, tenho experiências e afinidade com demandas relacionadas a ansiedade, depressão, traumas, relacionamentos amorosos, autoaceitação, autoconhecimento, luto, morte, oncologia, adoecimentos crônicos, medos entre outros. Assim, em processo de psicoterapia,  trabalharemos juntos com o objetivo de corrigir erros habituais do pensamento. Meu principal objetivo é promover qualidade de vida e bem estar aos meus pacientes para que estes possam viver de forma mais funcional!!\nNunca é tarde demais para cuidar da sua saúde mental. Vamos lá?!",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 100,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "Lzyd4q0zeCOBj6obodXmCdqgCRh2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -11.3022176,
+        "lng": -41.8476563
+      },
+      "address": ", 150 - Apartamento - Irecê/BA",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 5,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 3
+      },
+      "generalScore": 95,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Mar 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri May  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon May  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue May  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri May 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon May 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue May 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri May 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon May 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue May 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri May 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon May 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue May 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jun  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jun  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jun  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jun  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jun  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jun 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jun 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jun 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jun 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jun 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jun 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jun 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jun 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jun 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jun 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jun 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jun 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jun 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jun 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jun 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jul  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jul  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jul  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jul  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jul  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jul  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jul  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jul 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jul 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jul 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jul 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jul 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jul 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jul 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jul 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jul 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jul 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jul 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Jul 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Jul 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Jul 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Jul 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Jul 31 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Aug  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Aug  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Aug  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Aug  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Aug  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Aug  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Aug  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "1749",
+      "userId": 1749,
+      "name": "Fernanda Abatepaulo Linhares Guimaraes",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/0431f48b67",
+      "price": "R$ 160,00",
+      "duration": "50min.",
+      "registerNumber": "06/90599",
+      "presentationLetter": "Psicóloga Clínica desde 2008, com pós-graduação em Psicanálise.\nAtendimento acolhedor diferenciado, com experiência em casos de ansiedade, depressão, burnout, identidade de gênero, sexualidade, abusos, luto, ideação suicida, esquizofrenia, transtorno do pânico,  personalidade borderline, transtornos alimentares, entre outros.\nAutora e colaboradora em livros na área de Psicologia e Educação.\nPalestrante em escolas e empresas como o Anglo, o Objetivo, a UNIP, a Coop Johnson&Johnson, entre outras.",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 90,00",
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "a7CD9MCUEeh9wILzUdegFVm25kE2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -23.2046113,
+        "lng": -45.8927807
+      },
+      "address": "Rua Arnaldo Ricardo Monteiro, 71 - São José dos Campos/SP",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 5,
+        "notePrescribeTreatment": 5,
+        "noteAttentiveExpert": 5,
+        "noteGeneralService": 5,
+        "qtd": 16
+      },
+      "generalScore": 95,
+      "currentOfficeHour": [
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 27 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Mar 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "3674",
+      "userId": 3674,
+      "name": "Ane Gabriela Abades Dos Santos Freitas",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/e198955184",
+      "price": "R$ 90,00",
+      "duration": "50min.",
+      "registerNumber": "03/25985",
+      "presentationLetter": "Olá! Meu nome é Ane Gabriela,  sou Psicóloga (CRP: 03/25985) pós graduada em Neuropsicologia Clínica. Em minha prática clínica utilizo a abordagem Terapia Cognitivo-Comportamental (TCC), uma abordagem baseada em evidência que ajuda as pessoas a identificar, avaliar e responder pensamentos disfuncionais que possam está afetando seu comportamento e suas emoções. Por meio de um ambiente acolhedor e empático, trabalho em parceria com meus clientes, ajudando-os a desenvolver habilidades para lidar com desafios emocionais, gerenciar o estresse e alcançar uma vida mais equilibrada e gratificante. Seja para enfrentar ansiedade, depressão ou outros problemas psicológicos, estou aqui para apoiar você nessa jornada de autoconhecimento e transformação. Entre em contato para agendar uma consulta e dar o primeiro passo rumo ao bem-estar emocional.",
+      "profession": "Psicólogo",
+      "firstSessionPrice": "R$ 90,00",
+      "acceptDifferentiatedValue": false,
+      "differentiatedValue": null,
+      "uid": "cgHeHP6MWDdWKg4ylP3t2PI4TuB3",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -11.3022176,
+        "lng": -41.8476563
+      },
+      "address": ", 404 - Rua São Domingos, Boa Vista - Irecê/BA",
+      "acceptPlan": true,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 0,
+        "notePrescribeTreatment": 0,
+        "noteAttentiveExpert": 0,
+        "noteGeneralService": 0,
+        "qtd": 0
+      },
+      "generalScore": 15,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sun Mar 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sun Mar 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sun Mar 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Mar 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Mar 28 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Mar 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Mar 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sun Mar 31 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr  4 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr  5 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 10 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 11 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Sat Apr 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 17 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 18 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Apr 24 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Apr 25 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Apr 26 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Apr 29 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Apr 30 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May  1 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May  2 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri May  3 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon May  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue May  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed May  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu May  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    },
+    {
+      "id": "2271",
+      "userId": 2271,
+      "name": "Natalia Aparecida De Oliveira",
+      "image": "https://storage.googleapis.com/efetivasaude-files/images/a4c1d8b95f",
+      "price": "R$ 70,00",
+      "duration": "50min.",
+      "registerNumber": "06/170273",
+      "presentationLetter": "Olá! Seja bem-vindo(a). \nSou a Natalia Oliveira, tenho 26 anos, me formei em psicologia em 2019, atuei como Analista de RH por 04 anos e no ano de 2022 decidi começar com os atendimentos on-line!\n O meu intuito como psicóloga é te ajudar a ser PROTAGONISTA da sua própria história, te ensinar a compreender melhor suas emoções e levar a vida de uma forma leve! Sigo a linha teórica, TERAPIA COGNITIVA COMPORTAMENTAL (TCC); A TCC entende a forma como os nossos pensamentos influenciam nos nossos comportamentos. Essa abordagem é bem clara e direta. Buscar atendimento psicológico é comum. A terapia é para todos! E cuidar da sua saúde mental também é importante! Agende sua consulta!",
+      "profession": "Psicólogo",
+      "firstSessionPrice": null,
+      "acceptDifferentiatedValue": true,
+      "differentiatedValue": null,
+      "uid": "aO3ddBla4zT9D9hrsDaos4JCakD2",
+      "campaignId": null,
+      "online": true,
+      "favorite": false,
+      "coords": {
+        "lat": -20.8177736,
+        "lng": -49.3617885
+      },
+      "address": "Alameda Atlântica, 98 - São José do Rio Preto/SP",
+      "acceptPlan": false,
+      "faithfulPatients": true,
+      "serviceScore": {
+        "noteDiagnoseProblem": 0,
+        "notePrescribeTreatment": 0,
+        "noteAttentiveExpert": 0,
+        "noteGeneralService": 0,
+        "qtd": 0
+      },
+      "generalScore": 13,
+      "currentOfficeHour": [
+        {
+          "date": "Mon Feb  5 00:00:00 2024",
+          "actived": true,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb  6 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb  7 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb  8 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb  9 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 12 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 13 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 14 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 15 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 16 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Mon Feb 19 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Tue Feb 20 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Wed Feb 21 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Thu Feb 22 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        },
+        {
+          "date": "Fri Feb 23 00:00:00 2024",
+          "actived": false,
+          "schedules": null
+        }
+      ],
+      "rqes": null
+    }
+  ],
+  "schedules": [
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "07:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "07:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "08:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "08:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "08:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "09:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "09:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "09:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "09:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "10:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "10:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "10:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "10:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "10:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "11:10",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "11:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "11:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "11:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "12:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "12:10",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "12:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "12:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "12:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "13:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "13:10",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "13:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "13:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "13:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "14:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "14:10",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "14:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "14:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "14:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "15:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "15:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "15:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "15:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "15:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 228,
+      "time": "16:00",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 220,
+      "time": "16:10",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 221,
+      "time": "16:20",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 222,
+      "time": "16:30",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 224,
+      "time": "16:40",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    },
+    {
+      "id": null,
+      "scheduleId": 228,
+      "time": "16:50",
+      "available": true,
+      "clientId": null,
+      "clientOfficeId": null,
+      "clientName": ""
+    }
+  ],
+  "specialities": [
+    {
+      "value": "30",
+      "label": "Acupuntura"
+    },
+    {
+      "value": "15",
+      "label": "Alergia e Imunologia"
+    },
+    {
+      "value": "31",
+      "label": "Anestesiologia"
+    },
+    {
+      "value": "32",
+      "label": "Angiologia"
+    },
+    {
+      "value": "133",
+      "label": "Assessoria esportiva"
+    },
+    {
+      "value": "16",
+      "label": "Cardiologia"
+    },
+    {
+      "value": "33",
+      "label": "Cirurgia Cardiovascular"
+    },
+    {
+      "value": "34",
+      "label": "Cirurgia da Mão"
+    },
+    {
+      "value": "35",
+      "label": "Cirurgia de Cabeça e Pescoço"
+    },
+    {
+      "value": "36",
+      "label": "Cirurgia do Aparelho Digestivo"
+    },
+    {
+      "value": "37",
+      "label": "Cirurgia Geral"
+    },
+    {
+      "value": "38",
+      "label": "Cirurgia Oncológica"
+    },
+    {
+      "value": "39",
+      "label": "Cirurgia Pediátrica"
+    },
+    {
+      "value": "40",
+      "label": "Cirurgia Plástica"
+    },
+    {
+      "value": "41",
+      "label": "Cirurgia Torácica"
+    },
+    {
+      "value": "42",
+      "label": "Cirurgia Vascular"
+    },
+    {
+      "value": "14",
+      "label": "Clínica Médica"
+    },
+    {
+      "value": "122",
+      "label": "Coach"
+    },
+    {
+      "value": "43",
+      "label": "Coloproctologia"
+    },
+    {
+      "value": "137",
+      "label": "Competições esportivas"
+    },
+    {
+      "value": "114",
+      "label": "Dentista Clínico Geral"
+    },
+    {
+      "value": "116",
+      "label": "Dentística"
+    },
+    {
+      "value": "17",
+      "label": "Dermatologia"
+    },
+    {
+      "value": "138",
+      "label": "Empreendedorismo no esporte"
+    },
+    {
+      "value": "18",
+      "label": "Endocrinologia e Metabologia"
+    },
+    {
+      "value": "117",
+      "label": "Endodontista"
+    },
+    {
+      "value": "44",
+      "label": "Endoscopia"
+    },
+    {
+      "value": "127",
+      "label": "Enfermeiro do Trabalho"
+    },
+    {
+      "value": "128",
+      "label": "Enfermeiro em Cardiologia e Hemodinâmica"
+    },
+    {
+      "value": "129",
+      "label": "Enfermeiro em Pediatria e Neonatologia"
+    },
+    {
+      "value": "130",
+      "label": "Enfermeiro em Terapia Intensiva e Alta Complexidade"
+    },
+    {
+      "value": "131",
+      "label": "Enfermeiro em Urgência e Emergência"
+    },
+    {
+      "value": "132",
+      "label": "Enfermeiro Obstetra"
+    },
+    {
+      "value": "98",
+      "label": "Fisioterapeuta Acupunturista"
+    },
+    {
+      "value": "99",
+      "label": "Fisioterapeuta Aquático"
+    },
+    {
+      "value": "100",
+      "label": "Fisioterapeuta Cardiovascular"
+    },
+    {
+      "value": "101",
+      "label": "Fisioterapeuta Dermatofuncional"
+    },
+    {
+      "value": "104",
+      "label": "Fisioterapeuta do Trabalho"
+    },
+    {
+      "value": "102",
+      "label": "Fisioterapeuta Esportivo"
+    },
+    {
+      "value": "103",
+      "label": "Fisioterapeuta Gerontologista"
+    },
+    {
+      "value": "105",
+      "label": "Fisioterapeuta Neurofuncional"
+    },
+    {
+      "value": "106",
+      "label": "Fisioterapeuta Oncológico"
+    },
+    {
+      "value": "110",
+      "label": "Fisioterapeuta Osteopata"
+    },
+    {
+      "value": "111",
+      "label": "Fisioterapeuta Quiropraxista"
+    },
+    {
+      "value": "108",
+      "label": "Fisioterapeuta Respiratório"
+    },
+    {
+      "value": "107",
+      "label": "Fisioterapeuta Reumatologista"
+    },
+    {
+      "value": "112",
+      "label": "Fisioterapeuta Saúde da Mulher"
+    },
+    {
+      "value": "113",
+      "label": "Fisioterapeuta Terapia Intensiva"
+    },
+    {
+      "value": "109",
+      "label": "Fisioterapeuta Traumato-Ortopedista"
+    },
+    {
+      "value": "45",
+      "label": "Gastroenterologia"
+    },
+    {
+      "value": "46",
+      "label": "Genética Médica"
+    },
+    {
+      "value": "47",
+      "label": "Geriatria"
+    },
+    {
+      "value": "136",
+      "label": "Ginástica laboral"
+    },
+    {
+      "value": "19",
+      "label": "Ginecologia e Obstetrícia"
+    },
+    {
+      "value": "48",
+      "label": "Hematologia e Hemoterapia"
+    },
+    {
+      "value": "20",
+      "label": "Homeopatia"
+    },
+    {
+      "value": "119",
+      "label": "Implantodontista"
+    },
+    {
+      "value": "49",
+      "label": "Infectologia"
+    },
+    {
+      "value": "134",
+      "label": "Lazer"
+    },
+    {
+      "value": "50",
+      "label": "Mastologia"
+    },
+    {
+      "value": "51",
+      "label": "Medicina de Emergência"
+    },
+    {
+      "value": "52",
+      "label": "Medicina de Família e Comunidade"
+    },
+    {
+      "value": "53",
+      "label": "Medicina do Trabalho"
+    },
+    {
+      "value": "54",
+      "label": "Medicina do Tráfego"
+    },
+    {
+      "value": "55",
+      "label": "Medicina Esportiva"
+    },
+    {
+      "value": "56",
+      "label": "Medicina Física e Reabilitação"
+    },
+    {
+      "value": "57",
+      "label": "Medicina Intensiva"
+    },
+    {
+      "value": "58",
+      "label": "Medicina Legal e Perícia Médica"
+    },
+    {
+      "value": "59",
+      "label": "Medicina Nuclear"
+    },
+    {
+      "value": "60",
+      "label": "Medicina Preventiva e Social"
+    },
+    {
+      "value": "61",
+      "label": "Nefrologia"
+    },
+    {
+      "value": "62",
+      "label": "Neurocirurgia"
+    },
+    {
+      "value": "21",
+      "label": "Neurologia"
+    },
+    {
+      "value": "4",
+      "label": "Neuropsicólogo"
+    },
+    {
+      "value": "125",
+      "label": "Nutricionista"
+    },
+    {
+      "value": "22",
+      "label": "Nutrologia"
+    },
+    {
+      "value": "115",
+      "label": "Odontologia Legal"
+    },
+    {
+      "value": "118",
+      "label": "Odontopediatra"
+    },
+    {
+      "value": "23",
+      "label": "Oftalmologia"
+    },
+    {
+      "value": "24",
+      "label": "Oncologia Clínica"
+    },
+    {
+      "value": "25",
+      "label": "Ortopedia e Traumatologia"
+    },
+    {
+      "value": "26",
+      "label": "Otorrinolaringologia"
+    },
+    {
+      "value": "63",
+      "label": "Patologia"
+    },
+    {
+      "value": "64",
+      "label": "Patologista Clínica e Medicina Laboratorial"
+    },
+    {
+      "value": "27",
+      "label": "Pediatria"
+    },
+    {
+      "value": "65",
+      "label": "Pneumologia"
+    },
+    {
+      "value": "124",
+      "label": "Psicanalista"
+    },
+    {
+      "value": "12",
+      "label": "Psicologia Corporal ou Reich"
+    },
+    {
+      "value": "1",
+      "label": "Psicólogo"
+    },
+    {
+      "value": "8",
+      "label": "Psicólogo Analista do Comportamento"
+    },
+    {
+      "value": "7",
+      "label": "Psicólogo Analista Junguiano"
+    },
+    {
+      "value": "3",
+      "label": "Psicólogo Cognitivo Comportamental"
+    },
+    {
+      "value": "6",
+      "label": "Psicólogo Fenomenologia"
+    },
+    {
+      "value": "9",
+      "label": "Psicólogo Gestalt"
+    },
+    {
+      "value": "5",
+      "label": "Psicólogo Humanismo"
+    },
+    {
+      "value": "2",
+      "label": "Psicólogo Psicanalista"
+    },
+    {
+      "value": "10",
+      "label": "Psicólogo Psicodrama"
+    },
+    {
+      "value": "11",
+      "label": "Psicólogo Sistêmico"
+    },
+    {
+      "value": "28",
+      "label": "Psiquiatria"
+    },
+    {
+      "value": "66",
+      "label": "Radiologia e Diagnóstico por Imagem"
+    },
+    {
+      "value": "67",
+      "label": "Radioterapia"
+    },
+    {
+      "value": "135",
+      "label": "Reabilitação"
+    },
+    {
+      "value": "68",
+      "label": "Reumatologia"
+    },
+    {
+      "value": "13",
+      "label": "Supervisão Clínica de Psicologia"
+    },
+    {
+      "value": "69",
+      "label": "Terapeuta Complementar Acupunturista"
+    },
+    {
+      "value": "70",
+      "label": "Terapeuta Complementar Apiterapia"
+    },
+    {
+      "value": "71",
+      "label": "Terapeuta Complementar Aromaterapia"
+    },
+    {
+      "value": "72",
+      "label": "Terapeuta Complementar Arteterapia"
+    },
+    {
+      "value": "73",
+      "label": "Terapeuta Complementar Ayurveda"
+    },
+    {
+      "value": "74",
+      "label": "Terapeuta Complementar Biodança"
+    },
+    {
+      "value": "75",
+      "label": "Terapeuta Complementar Bioenergética"
+    },
+    {
+      "value": "76",
+      "label": "Terapeuta Complementar Constelação familiar"
+    },
+    {
+      "value": "77",
+      "label": "Terapeuta Complementar Cromoterapia"
+    },
+    {
+      "value": "78",
+      "label": "Terapeuta Complementar Dança circular"
+    },
+    {
+      "value": "95",
+      "label": "Terapeuta Complementar de Florais"
+    },
+    {
+      "value": "89",
+      "label": "Terapeuta Complementar Fitoterapia Plantas Medicinais"
+    },
+    {
+      "value": "79",
+      "label": "Terapeuta Complementar Geoterapia"
+    },
+    {
+      "value": "80",
+      "label": "Terapeuta Complementar Hipnoterapia"
+    },
+    {
+      "value": "81",
+      "label": "Terapeuta Complementar Homeopatia"
+    },
+    {
+      "value": "82",
+      "label": "Terapeuta Complementar Imposição de Mãos"
+    },
+    {
+      "value": "83",
+      "label": "Terapeuta Complementar Medicina Antroposófica"
+    },
+    {
+      "value": "123",
+      "label": "Terapeuta Complementar Medicina Tradicional Chinesa"
+    },
+    {
+      "value": "84",
+      "label": "Terapeuta Complementar Meditação"
+    },
+    {
+      "value": "85",
+      "label": "Terapeuta Complementar Musicoterapia"
+    },
+    {
+      "value": "86",
+      "label": "Terapeuta Complementar Naturopatia"
+    },
+    {
+      "value": "87",
+      "label": "Terapeuta Complementar Osteopatia"
+    },
+    {
+      "value": "88",
+      "label": "Terapeuta Complementar Ozonioterapia"
+    },
+    {
+      "value": "90",
+      "label": "Terapeuta Complementar Quiropraxia"
+    },
+    {
+      "value": "91",
+      "label": "Terapeuta Complementar Reflexoterapia"
+    },
+    {
+      "value": "92",
+      "label": "Terapeuta Complementar Reiki"
+    },
+    {
+      "value": "93",
+      "label": "Terapeuta Complementar Shantala"
+    },
+    {
+      "value": "94",
+      "label": "Terapeuta Complementar Terapia Comunitária Integrativa"
+    },
+    {
+      "value": "96",
+      "label": "Terapeuta Complementar Termalismo Social/Crenoterapia"
+    },
+    {
+      "value": "120",
+      "label": "Terapeuta Complementar TRG"
+    },
+    {
+      "value": "97",
+      "label": "Terapeuta Complementar Yoga"
+    },
+    {
+      "value": "126",
+      "label": "Terapeuta Ocupacional"
+    },
+    {
+      "value": "121",
+      "label": "Terapia Holística"
+    },
+    {
+      "value": "29",
+      "label": "Urologia"
+    }
+  ],
+  "symptoms": [
+    {
+      "value": "2",
+      "label": "Abusos Emocionais\r\n"
+    },
+    {
+      "value": "3",
+      "label": "Abusos Físicos \r\n"
+    },
+    {
+      "value": "4",
+      "label": "Adoção de Filhos\r\n"
+    },
+    {
+      "value": "5",
+      "label": "Agressividade\r\n"
+    },
+    {
+      "value": "6",
+      "label": "Alienação parental\r\n"
+    },
+    {
+      "value": "7",
+      "label": "Ansiedade\r\n"
+    },
+    {
+      "value": "8",
+      "label": "Assédio Moral/ Sexual\r\n"
+    },
+    {
+      "value": "9",
+      "label": "Autismo\r\n"
+    },
+    {
+      "value": "10",
+      "label": "Autoconhecimento \r\n"
+    },
+    {
+      "value": "11",
+      "label": "Autoestima\r\n"
+    },
+    {
+      "value": "12",
+      "label": "Avaliação psicológica \r\n"
+    },
+    {
+      "value": "13",
+      "label": "Bullying\r\n"
+    },
+    {
+      "value": "14",
+      "label": "Burnout\r\n"
+    },
+    {
+      "value": "15",
+      "label": "Cirurgia Bariátrica\r\n"
+    },
+    {
+      "value": "16",
+      "label": "Compulsões \r\n"
+    },
+    {
+      "value": "17",
+      "label": "Conflitos Familiares/ Conjugais\r\n"
+    },
+    {
+      "value": "18",
+      "label": "Conflitos Profissionais\r\n"
+    },
+    {
+      "value": "19",
+      "label": "Déficit de Atenção e Hiperatividade\r\n"
+    },
+    {
+      "value": "21",
+      "label": "Depressão Pós-parto\r\n"
+    },
+    {
+      "value": "20",
+      "label": "Depressão\r\n"
+    },
+    {
+      "value": "22",
+      "label": "Disfunção sexual\r\n"
+    },
+    {
+      "value": "23",
+      "label": "Dislexia\r\n"
+    },
+    {
+      "value": "24",
+      "label": "Doenças Crônicas\r\n"
+    },
+    {
+      "value": "25",
+      "label": "Dores Psicossomáticas\r\n"
+    },
+    {
+      "value": "26",
+      "label": "Esquizofrenia\r\n"
+    },
+    {
+      "value": "28",
+      "label": "Estresse Pós-traumático\r\n"
+    },
+    {
+      "value": "27",
+      "label": "Estresse\r\n"
+    },
+    {
+      "value": "29",
+      "label": "Fobia social\r\n"
+    },
+    {
+      "value": "30",
+      "label": "Gravidez\r\n"
+    },
+    {
+      "value": "33",
+      "label": "Hipocondria\r\n"
+    },
+    {
+      "value": "34",
+      "label": "Imagem Corporal\r\n"
+    },
+    {
+      "value": "35",
+      "label": "Insônia \r\n"
+    },
+    {
+      "value": "31",
+      "label": "Limites na educação dos filhos\r\n"
+    },
+    {
+      "value": "32",
+      "label": "Luto\r\n"
+    },
+    {
+      "value": "36",
+      "label": "Medos (Outros)"
+    },
+    {
+      "value": "37",
+      "label": "Obesidade\r\n"
+    },
+    {
+      "value": "38",
+      "label": "Orientação Profissional\r\n"
+    },
+    {
+      "value": "39",
+      "label": "Orientação Vocacional\r\n"
+    },
+    {
+      "value": "60",
+      "label": "Outro\r\n"
+    },
+    {
+      "value": "40",
+      "label": "Problemas relacionados à aprendizagem\r\n"
+    },
+    {
+      "value": "42",
+      "label": "Questões da adolescência, outras não especificadas aqui\r\n"
+    },
+    {
+      "value": "41",
+      "label": "Questões da infância, outras não especificadas aqui\r\n"
+    },
+    {
+      "value": "43",
+      "label": "Questões da terceira idade, outras não especificadas aqui\r\n"
+    },
+    {
+      "value": "44",
+      "label": "Questões financeiras \r\n"
+    },
+    {
+      "value": "61",
+      "label": "Relacionamento"
+    },
+    {
+      "value": "45",
+      "label": "Reprodução assistida\r\n"
+    },
+    {
+      "value": "46",
+      "label": "Separação\r\n"
+    },
+    {
+      "value": "47",
+      "label": "Sexualidade\r\n"
+    },
+    {
+      "value": "48",
+      "label": "Síndrome do Pânico\r\n"
+    },
+    {
+      "value": "49",
+      "label": "Timidez\r\n"
+    },
+    {
+      "value": "51",
+      "label": "Transtorno Bipolar\r\n"
+    },
+    {
+      "value": "50",
+      "label": "Transtorno Obsessivo Compulsivo\r\n"
+    },
+    {
+      "value": "52",
+      "label": "Transtornos Alimentares\r\n"
+    },
+    {
+      "value": "53",
+      "label": "Traumas Emocionais/ Físicos\r\n"
+    },
+    {
+      "value": "56",
+      "label": "Vício em Álcool\r\n"
+    },
+    {
+      "value": "57",
+      "label": "Vício em Drogas\r\n"
+    },
+    {
+      "value": "58",
+      "label": "Vício em Internet\r\n"
+    },
+    {
+      "value": "59",
+      "label": "Vício em Jogos\r\n"
+    },
+    {
+      "value": "54",
+      "label": "Violência Doméstica\r\n"
+    },
+    {
+      "value": "55",
+      "label": "Violência Sexual\r\n"
+    }
+  ],
+  "healthInsurance": [
+    {
+      "value": "21",
+      "label": "Alice"
+    },
+    {
+      "value": "3",
+      "label": "Amil"
+    },
+    {
+      "value": "11",
+      "label": "ASSIM Saúde"
+    },
+    {
+      "value": "10",
+      "label": "Athena Saúde"
+    },
+    {
+      "value": "1",
+      "label": "Bradesco Saúde"
+    },
+    {
+      "value": "14",
+      "label": "Care Plus"
+    },
+    {
+      "value": "6",
+      "label": "Central Nacional Unimed"
+    },
+    {
+      "value": "20",
+      "label": "FSFX São Francisco Xavier"
+    },
+    {
+      "value": "5",
+      "label": "Hapvida"
+    },
+    {
+      "value": "19",
+      "label": "MedSênior"
+    },
+    {
+      "value": "4",
+      "label": "NotreDame Intermédica"
+    },
+    {
+      "value": "12",
+      "label": "OdontoPrev"
+    },
+    {
+      "value": "13",
+      "label": "Omint"
+    },
+    {
+      "value": "22",
+      "label": "Outro"
+    },
+    {
+      "value": "9",
+      "label": "Porto Seguro Saúde"
+    },
+    {
+      "value": "8",
+      "label": "Prevent Senior"
+    },
+    {
+      "value": "17",
+      "label": "São Cristovão"
+    },
+    {
+      "value": "18",
+      "label": "Sompo Saúde"
+    },
+    {
+      "value": "2",
+      "label": "SulAmérica Saúde"
+    },
+    {
+      "value": "16",
+      "label": "Trasmontano"
+    },
+    {
+      "value": "7",
+      "label": "Unimed - Local"
+    },
+    {
+      "value": "15",
+      "label": "Vision Med"
+    }
+  ]
+}
